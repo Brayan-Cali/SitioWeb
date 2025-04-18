@@ -1,2 +1,0 @@
-# SitioWeb
-Practica sitio web
